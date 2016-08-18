@@ -1,0 +1,14 @@
+layout_spectrum: 0.21181257464922965
+typography_spectrum: 0.9023012728430331
+color:
+  brandStrength: 0.4907306609675288
+  lightness: 0.9777367350179702
+  saturation: 0.4656882989220321
+  rhythmicContrast: 0.5331877309363335
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: SourcePile
