@@ -12,5 +12,9 @@ color:
     - '#CEAFC0'
 layout_spectrum: 0.21181257464922965
 name: SourcePile
+navigation:
+  - name: My case studies.
+    url: ericvanfossen.com
+    type: external
 title: The next best thing.
 description: The expected is what we learned yesterday.
